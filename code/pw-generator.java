@@ -1,4 +1,4 @@
-import java.util.Random; public class Main {     //Einstellung für die Password länge
+import java.util.Random; public class Main {    //Einstellung für die Password länge
     private static int passwordLength = 10;
     public static void main(String[] args) {
         System.out.println(generatePassword());
